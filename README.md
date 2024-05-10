@@ -1,5 +1,6 @@
 # Files manager
 ![files_manager](https://github.com/alchemistlowkey/alx-files_manager/assets/46524038/d6297be3-ac87-4b68-9077-8264bce49d50)
+![files_manager_2](https://github.com/alchemistlowkey/alx-files_manager/assets/46524038/e6eb1487-78ed-45d2-9fd3-a93f45bf4bc7)
 
 This project is a summary of this back-end trimester: authentication, NodeJS, MongoDB, Redis, pagination and background processing.
 
